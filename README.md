@@ -4,7 +4,7 @@
 Alunos: 
 Juan Lima (Home)
 <br>
-Jonathan (Notícias)
+Jonathan Nascimento (Notícias)
 <br>
 Giovani Gama (Detalhes)
 <br>
